@@ -1,4 +1,8 @@
-# Temas Primer Parcial
+Tengo un mejor repo con apuntes y ejercicios de Python y está [acá](https://github.com/checorazza/learning/tree/main/python)
+
+---
+
+## Temas Primer Parcial
 - Print
 - Variables
 - Data Types
