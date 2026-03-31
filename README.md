@@ -1,0 +1,13 @@
+# Temas Primer Parcial
+- Print
+- Variables
+- Data Types
+- Numbers
+- Casting
+- Strings
+- Booleans
+- Dates
+- Operators
+- If...Else
+- While Loops
+- For Loops
