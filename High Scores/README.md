@@ -1,0 +1,1 @@
+Dada una lista donde adentro de cada elemento tiene una tupla, y adentro de cada tupla tiene 2 valores: Player (string) y Score (int). Quien es el jugador que tuvo mas puntos? Suma total de puntos por persona y quienes tienen los puntajes mas bajos
