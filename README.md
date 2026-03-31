@@ -11,3 +11,4 @@
 - If...Else
 - While Loops
 - For Loops
+- Tipos de Errores
